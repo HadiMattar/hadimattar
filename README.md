@@ -1,4 +1,4 @@
-    <h3 align="center">A passionate frontend developer from Lebanon</h3> 
+    <h2 align="center">A passionate frontend developer from Lebanon</h2> 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
